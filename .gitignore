@@ -1,0 +1,51 @@
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Environment files
+.env
+*.env
+
+# Virtual environment directories
+venv/
+env/
+.venv/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Logs and database files
+*.log
+*.sqlite3
+
+# Compiled files
+*.so
+
+# OS-generated files
+.DS_Store
+Thumbs.db
+
+# CV2 specific cache or temporary files
+*.npy
+*.npz
+
+# Project-specific
+yolov3.weights
+yolov3.cfg
+yolov3-tiny.weights
+yolov3-tiny.cfg
+coco.names
+
+# Flask-specific
+instance/
+*.pid
+
+# Editor/IDE specific
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Ignore uploaded or temporary files
+uploads/
+temp/
