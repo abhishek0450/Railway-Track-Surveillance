@@ -31,6 +31,8 @@ To set up the project locally, follow these steps:
     pip install -r requirements.txt
     ```
 
+4. Download and keep yoloVx.weights , yoloVx.config, coco.names (x = version || yoloV3 || yoloV4) in root directory (same as app.py).
+
 ## Usage
 To run the project, execute the following command:
 ```sh
