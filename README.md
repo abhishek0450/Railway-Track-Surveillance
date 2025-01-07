@@ -35,3 +35,14 @@ To set up the project locally, follow these steps:
 To run the project, execute the following command:
 ```sh
 python app.py
+
+```
+![Screenshot 2025-01-07 163829](https://github.com/user-attachments/assets/9e9230b4-9a21-4072-96c9-049c247a293a)
+
+![IMG-20250107-WA0008](https://github.com/user-attachments/assets/a371f08c-8874-4c42-ab43-0aa1486cfd78)
+
+- Red - alarm toggle, toggle object detection and alarm on/off
+- Blue - date / time
+- Purple - motion detected alert 
+- Green - type of object detected
+- Yellow - camera view
